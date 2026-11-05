@@ -1,0 +1,778 @@
+
+
+.dark {
+  background:#1e1e1e;
+  color: #fff;
+  transition: 0.5s;
+}
+
+.dark body{
+  color: #acacac;
+  transition: 0.5s;
+}
+
+.dark p{
+  color: #acacac;;
+  transition: 0.5s;
+}
+
+
+/*
+<!-- =======================================-->
+<!--Home 1 Dark Css-->
+<!-- =======================================-->*/
+
+.dark .room-title-area {
+    background-color: #181818 !important;
+}
+
+.dark .section-title h1 {
+    color: #fff;
+}
+
+.dark p.section-desc-1 {
+    color: #acacac;
+}
+
+.dark .room-content {
+    background: #1e1e1e;
+    border: 1px solid rgba(255,255,255,0.15);
+}
+
+.dark .room-content a {
+    color: #fff;
+}
+
+.dark .room-content a:hover{
+	color:#c19d68;
+} 
+
+.dark .room-content p {
+    color: #acacac;
+}
+
+.dark .room-bottom {
+   border: 1px solid rgba(255,255,255,0.15);
+}
+
+.dark .room-bottom-icon span {
+    color: #acacac;
+}
+
+.dark .room-bottom-icon i{
+    color: #acacac;
+}
+
+.dark .room-area .owl-dot {
+    border: 2px solid #ffffff8c;
+}
+
+.dark .feature-area {
+    background-color: #181818 !important;
+}
+
+.dark .call-do-action-area {
+    background: #212121;
+    padding: 1px 0 0;
+}
+
+.dark .row.call-do-action-bg {
+    background: url(../images/home-1/dark-img.jpg);
+}
+
+.dark .call-do-action-text a {
+    color: #acacac;
+}
+
+.dark .call-do-action-content h4 {
+    color: #ffff;
+}
+
+.dark .facilities-area {
+    background-color: #212121;
+}
+
+.dark .facilities-area .luxury-button:before{
+	background:#fff;
+}
+
+.dark .facilities-area .luxury-button a {
+    color: #fff !important;
+    border: 1px solid #fff !important;
+}
+
+.dark .facilities-area .luxury-button a:hover{
+	color:#222 !important;
+}
+
+.dark .facilities-area .luxury-button a:before{
+	background:#fff !important;
+}
+
+.dark .facilities-content h1 {
+    color: #fff;
+}
+
+.dark a.facilities-button i {
+    color: #c19d68;
+}
+
+.dark .offers-area {
+    background-color: #1e1e1e !important;
+}
+
+.dark .offers-content {
+    background: rgba(255,255,255,0);
+    border: 1px solid rgba(255,255,255,0.15);
+}
+
+.dark .offers-content a {
+    color: #fff;
+}
+
+.dark .offers-content a:hover{
+	color:#c19d68;
+}
+
+.dark .offers-content a:before {
+    background:#c19d68;
+}
+
+.dark .single-testi-box {
+    background-color: #272727;
+}
+
+.dark .testi-author-title h4 {
+    color: #fff;
+}
+
+.dark .blog-content {
+	border: 1px solid rgba(255,255,255,0.15);
+}
+
+.dark .meta-blog span {
+    color: #acacac;
+}
+
+.dark .meta-blog span:before {
+    background: #C29D68;
+}
+
+.dark .blog-content a {
+    color: #fff;
+}
+
+.dark .blog-button {
+    border: 1px solid rgba(255,255,255,0.15);
+}
+
+.dark .blog-button a {
+    color: #ffff;
+}
+
+.dark .blog-button a:hover{
+	color:#C29D68;
+}
+
+
+/*
+<!-- =======================================-->
+<!--Home 2 Dark Css-->
+<!-- =======================================-->*/
+
+.dark .home-two.offer-area {
+    background: #1e1e1e;
+}
+
+.dark .home-two .section-title h4:before {
+    background: #fff;
+}
+
+.dark .home-two .section-title.center h4:before {
+    background:transparent;
+}
+
+.dark .home-two.facilities-area {
+    background: #272727;
+}
+
+.dark .home-two .single-facilities-box-two:before {
+    background: #1e1e1e;
+}
+
+.dark .home-two .facilities-icon {
+    background: #1e1e1e;
+}
+
+.dark .home-two .single-facilities-box-two:hover .facilities-icon {
+    background: #272727;
+}
+
+.dark .home-two .facilities-icon img {
+   filter: brightness(0) invert(1);
+}
+
+.dark .home-two .facilities-content-two h4 {
+    color: #fff;
+}
+
+.dark .home-two.place-area {
+    background: #1e1e1e;
+}
+
+.dark .home-two.room-area {
+    background-color: #272727;
+    padding: 117px 0 102px;
+}
+
+.dark .home-two .room-content h4 {
+    color: #fff;
+}
+
+.dark .home-two .room-item ul li {
+    border-bottom: 1px solid #acacac;
+     color: #acacac;
+}
+
+.dark .home-two.testimonial-area {
+    background: #1e1e1e;
+}
+
+.dark .home-two .single-testimonial-box-two {
+    background-color: #272727;
+}
+
+.dark .home-two .testi-title h4 {
+    color: #fff;
+}
+
+.dark .home-two .testi-author-rating {
+    background: #1e1e1e;
+}
+
+.dark .home-two .testi-title p {
+    color: #acacac;
+}
+
+.dark .home-two.blog-area {
+    background-color: #272727;
+}
+
+.dark .home-two .blog-content-two {
+    background-color: #1e1e1e;
+}
+
+.dark .home-two .meta-blog-two i {
+    background: #272727;
+}
+
+.dark .home-two .meta-blog-two span {
+    color: #acacac;
+}
+
+.dark .home-two .blog-content-two a {
+    color: #fff;
+}
+
+.dark .home-two.footer-area-two {
+    background-color: #1e1e1e;
+}
+
+.dark .home-two.footer-area-two .footer-widget-logo img {
+    filter: brightness(0) invert(1);
+}
+
+.dark .home-two .footer-widget-titel-two h4 {
+    color: #ffff;
+}
+
+.dark .home-two .footer-widget-menu-two ul li {
+    color: #acacac;
+}
+
+.dark .home-two .footer-widget-menu-two ul li a {
+    color: #acacac;
+}
+
+.dark .home-two .footer-bottom-area-two {
+    background-color: #272727;
+}
+
+/*
+<!-- =======================================-->
+<!--Home 3 Dark Css-->
+<!-- =======================================-->*/
+.dark .top-bar-info ul li a {
+    color: #acacac;
+}
+
+.dark .booking-massage a {
+    color: #acacac;
+}
+
+.dark .review-button button {
+     color: #acacac;
+}
+
+.dark .login-button button {
+    color: #acacac;
+}
+
+.dark .singup-button button {
+    color: #acacac;
+}
+
+.dark a.light-logo {
+    display: none;
+}
+
+.dark a.dark-logo {
+   display: block;
+}
+
+.dark .home-three .header-menu ul li a {
+    color: #fff;
+}
+
+.dark .home-three .header-menu ul li i {
+    color: #fff;
+}
+
+.dark .home-three .header-menu ul li .sub-menu li a {
+    color: #1e1e1e !important;
+}
+
+.dark .home-three .header-menu ul li .sub-menu li a:hover {
+    color: #fff !important;
+}
+
+.dark .hero-slider-2 .owl-prev i {
+    color: #fff;
+}
+
+.dark .hero-slider-2 .owl-next i {
+    color: #fff;
+}
+
+
+.dark .home-three.about-area {
+    background-color: #1e1e1e;
+}
+
+.dark .home-three .about-author-content h4 {
+    color: #ffff;
+}
+
+.dark .home-three .about-contact-content h4 {
+    color: #acacac;
+}
+
+.dark .home-three .about-contact-content p {
+    color: #fff;
+}
+
+.dark .home-three.room-area {
+    background-color: #272727;
+}
+
+.dark .home-three .room-quality {
+    background-color: #1e1e1e;
+}
+
+.dark .home-three .room-content {
+    border: transparent;
+}
+
+.dark .home-three .room-bottom {
+    background-color: #1e1e1e;
+    border: transparent;
+}
+
+.dark .home-three.offer-area {
+    background-color: #1e1e1e;
+}
+
+.dark .home-three .offer-bottom-title h4 {
+    color: #fff;
+}
+
+.dark .home-three.facilities-area {
+    background-color: #1e1e1e;
+}
+
+.dark .home-three .single-facilities-box {
+    filter: drop-shadow(0px 5px 15px rgba(204,204,204,0.0));
+    background-color: #272727;
+}
+
+.dark .home-three .single-facilities-box:before {
+    background-color: #403f3f;
+}
+
+.dark .home-three .single-facilities-box:after {
+    background-color: #c19d68;
+}
+
+.dark .home-three .single-facilities-box:hover .facilities-icon img{
+   filter: brightness(0) invert(1);
+}
+
+.dark .home-three .facilities-content h4 {
+    color: #fff;
+}
+
+.dark .home-three .facilities-content p {
+    color: #fff !important;
+}
+
+.dark .home-three.contact-area {
+    background-color: #272727;
+}
+
+.dark .home-three .contact-box-right {
+    filter: drop-shadow(0px 5px 15px rgba(204,204,204,0.0));
+    background-color: #1e1e1e;
+}
+
+.dark .home-three.blog-area {
+    background-color: #1e1e1e;
+}
+
+.dark .home-three .meta-blog span:before {
+    background: transparent;
+}
+
+.dark .home-three .blog-content a {
+    color: #fff;
+    color: #012549;
+}
+
+/*
+<!-- =======================================-->
+<!--Home 4 Dark Css-->
+<!-- =======================================-->*/
+
+.dark .home-four .row.booking-bg {
+    background-color: #272727;
+}
+
+.dark .home-four .single-booking-box {
+    background-color: #1e1e1e;
+}
+
+.dark .home-four.room-area {
+    background-color: #1e1e1e;
+}
+
+.dark .home-four .single-room-box {
+    background-color: #272727;
+    transition: 0.5s;
+}
+
+.dark .home-four .single-room-box:hover{
+    filter: drop-shadow(0px 5px 15px rgba(204,204,204,0.25));
+}
+
+.dark .home-four .room-content {
+    border: transparent;
+    background-color: #272727;
+}
+
+.dark .vedio-content a {
+    color: #fff;
+    background-color: #1e1e1e;
+}
+
+.dark .home-four.offer-area {
+    background-color: #272727;
+}
+
+.dark .home-four .section-title.center h1 {
+    color: #fff;
+}
+
+.dark .home-four .offer-content {
+    background-color: #272727;
+}
+
+.dark .home-four .offer-content h4 {
+    color: #fff;
+}
+
+.dark .home-four .offer-content a {
+    border: 1px solid rgba(255,255,255,0.15);
+    color: #fff;
+}
+
+.dark .home-four.event-area {
+    background: url(../images/home4/event-dark-1.jpg);
+}
+
+.dark .home-four.event-area-2 {
+    background: url(../images/home4/event-dark-2.jpg);
+}
+
+.dark .home-four.event-area-3 {
+    background: url(../images/home4/event-dark-3.jpg);
+}
+
+.dark .home-four .single-event-box {
+    background-color: #272727;
+}
+
+.dark .home-four .event-content h4 {
+    color: #c19d68;
+}
+
+.dark .home-four .event-content h1 {
+    color: #fff;
+}
+
+.dark .home-four .event-content a {
+    border: 1px solid rgba(255,255,255,0.15);
+    color: #fff;
+}
+
+.dark .home-four.testimonial-area {
+    background: #272727 !important;
+}
+
+.dark .home-four .section-title.center h4 {
+    color: #c19d68;
+}
+
+.dark .home-four .testi-bg {
+    background: #1e1e1e;
+}
+
+.dark .home-four .owl-dot {
+    background: #272727;
+}
+
+.dark .home-four .owl-dot.active {
+    background: #C19E67 !important;
+}
+
+.dark .home-four .testi-content h1 {
+    color: #ffff;
+}
+
+/*
+<!-- =======================================-->
+<!--Home 5 Dark Css-->
+<!-- =======================================-->*/
+
+.dark .home-five .header-menu ul li a {
+    color: #fff;
+}
+
+.dark .home-five .header-menu ul li i {
+    color: #fff;
+}
+
+.dark .home-five .header-menu ul li .sub-menu li a {
+    color: #1e1e1e;
+}
+
+.dark .home-five .header-menu ul li .sub-menu li a:hover {
+    color: #fff;
+}
+
+.dark .home-five .header-button:before {
+    background: #fff;
+}
+
+.dark .home-five .header-button a {
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+
+.dark .home-five.service-area {
+    background: #272727;
+}
+
+.dark .home-five.service-area .luxury-button a {
+    color: #ffff;
+    border: 1px solid #fff;
+}
+
+.dark .home-five .single-booking-box label {
+    color: #fff;
+}
+
+.dark .home-five .single-booking-box input {
+    border: 1px solid #acacac;
+    background: transparent;
+    color: #acacac;
+}
+
+.dark .home-five .single-booking-box select {
+    border: 1px solid #acacac;
+    background: transparent;
+    color: #acacac;
+}
+
+.dark .home-five .testimonial-content {
+    background-color: #272727;
+}
+
+.dark .home-five .testimonial-content:before {
+    background-color: #272727;
+}
+
+.dark .home-five .testi-title h4 {
+    color: #fff;
+}
+
+.dark .home-five.testimonial-area .section-title.center h1 {
+    color: #fff;
+}
+
+.dark .home-five.blog-area {
+    background-color: #272727;
+}
+
+.dark .home-five.blog-area .section-title.center h1 {
+    color: #fff;
+}
+
+.dark .home-five .blog-content {
+    background: #1E1E1E;
+    border: 1px solid rgba(255,255,255,0.0);
+}
+
+
+.dark .home-five .single-blog-box.upper {
+    background: #1E1E1E;
+}
+
+.dark .blog-content.upper  {
+    border: 1px solid rgba(255,255,255,0.0);
+}
+
+.dark .home-five .meta-blog span:before {
+    background: transparent;
+}
+
+.dark .home-five.gallery-area .section-title.center h1 {
+    color: #ffff;
+}
+
+.dark .home-five.footer-area {
+    background-color: #272727;
+}
+
+/*
+<!-- =======================================-->
+<!--Home 5 Dark Css-->
+<!-- =======================================-->*/
+.dark .home-six .row.booking-bg {
+    background-color: #272727;
+}
+
+.dark .home-six .booking-content p {
+    color: #fff;
+}
+
+.dark .home-six .booking-content input {
+    background: transparent;
+    color: #ffffff;
+}
+
+.dark .home-six .booking-content input::placeholder{
+    color:#fff;
+    opacity: 0.8;
+}
+
+.dark .home-six.about-area {
+    background-color: #1e1e1e;
+}
+
+.dark .home-six .section-title p {
+    color: #ffffff;
+    opacity: 0.8;
+}
+
+.dark .about-list-item ul li i {
+    color: #fff;
+}
+
+.dark .home-six .about-phone-content p {
+    color: #fff;
+}
+
+.dark .home-six.tourism-area {
+    background-color: #272727;
+}
+
+.dark .home-six.location-area {
+    background-color: #1e1e1e;
+}
+
+.dark .home-six .location-text p {
+    -webkit-text-stroke-color: #fff;
+}
+
+.dark .home-six .gallery-text p {
+    -webkit-text-stroke-color: #fff;
+}
+
+.dark .home-six.room-area {
+    background-color: #272727;
+}
+
+.dark .home-six.testimonial-area {
+    background: url(../images/home6/testi-dark-bg.jpg);
+    background-size: cover;
+    background-position: center right;
+}
+
+.dark .home-six .testi-content h1 {
+    color: #fff;
+}
+
+.dark .home-six .testi-content h4 {
+    color: #fff;
+}
+
+.dark .home-six .testi-content p {
+    color: #fff;
+    opacity: 0.8;
+}
+
+.dark .home-six .testi-thumb h4 {
+    color: #fff;
+}
+
+.dark .home-six.subscribe-area {
+    background: url(../images/home6/subscribe-dark-bg.jpg);
+}
+
+.dark .home-six.blog-area {
+    background-color: #272727;
+}
+
+.dark .home-six .blog-content {
+    background-color: #1e1e1e;
+    border: transparent;
+}
+
+.dark .home-six .meta-blog span:before {
+    background:transparent;
+}
+
+
+
+/*landing-contact*/
+.dark .style-two.contact-area {
+    padding: 124px 0 126px;
+    background: #212121;
+}
+
+.dark .style-two.contact-area .section-title h1 {
+    color: #212121;
+}
+
+
+
